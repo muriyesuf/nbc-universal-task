@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: product-cart
-
-dummyjson:
-  base-url: https://dummyjson.com
